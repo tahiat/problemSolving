@@ -1,1 +1,2 @@
 #this line is added before this file is staged
+#i will comit this line then checkout
